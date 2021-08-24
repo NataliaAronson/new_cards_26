@@ -9,4 +9,8 @@ img{
   align-items: center;
   justify-content: center;
   max-width:25rem;
+  margin: 20 px;
+  padding: 20px;
+  border: 5px;
+
 }
